@@ -71,7 +71,7 @@
     <string name="quick_settings_qr_playing">Lecture&#8230;</string>
     <string name="quick_settings_qr_recording">Enregistrement&#8230;</string>
     <string name="quick_settings_qr_recorded">Enregistré</string>
-    <string name="quick_settings_qr_record">Appuyez longtemps pour enregistrer</string>
+    <string name="quick_settings_qr_record">Appui long pour enregistrer</string>
     <string name="quick_settings_qr_recording_notif">Touchez pour stopper l\'enregistrement</string>
 
     <!--  QuickSettings settings -->
@@ -268,5 +268,9 @@
     <!--  Solid black Holo background -->
     <string name="pref_holo_bg_solid_black_title">Arrière-plan noir uni</string>
     <string name="pref_holo_bg_solid_black_summary">Utiliser un arrière-plan noir uni pour le thème Holo par défaut au lieu du dégradé noir-gris (nécessite un redémarrage)</string>
+
+    <!-- QuickSettings tiles per row -->
+    <string name="pref_qs_tiles_per_row_title">Touches par rangée</string>
+    <string name="pref_qs_tiles_per_row_summary">Définit le nombre de touches de paramètres rapides à afficher par rangée. Les touches seront redimensionnées en conséquence</string>
 
 </resources>
