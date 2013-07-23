@@ -6,8 +6,7 @@
     <string name="battery_style_title">Battery indicator style</string>	
     <string name="battery_style_stock">Stock battery indicator</string>
     <string name="battery_style_circle">Circle battery with percentage</string>
-    <string name="battery_style_percent">Large percent text</string>
-    <string name="battery_style_percent_stock">Large percent text with stock icon</string>
+    <string name="battery_style_percent">Battery percent text</string>
     <string name="battery_style_none">None</string>
 
     <string name="vol_music_controls_title">Volume keys skip track</string>
@@ -268,5 +267,12 @@
     <!--  Solid black Holo background -->
     <string name="pref_holo_bg_solid_black_title">Solid black background</string>
     <string name="pref_holo_bg_solid_black_summary">Use solid black background for default Holo system theme instead of black-grey gradient (requires reboot)</string>
+
+    <!-- QuickSettings tiles per row -->
+    <string name="pref_qs_tiles_per_row_title">Tiles per row</string>
+    <string name="pref_qs_tiles_per_row_summary">Defines how many QuickSettings tiles to display per one row. Tiles will be resized accordingly.</string>
+
+    <!--  Status bar clock - show day of week -->
+    <string name="pref_statusbar_clock_dow_title">Show day of week</string>
 
 </resources>
